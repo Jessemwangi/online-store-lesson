@@ -37,3 +37,12 @@
     transform: translateY(0px);
   }
 }
+a{
+  color: white !important;
+  margin-left: 2rem;
+  text-decoration: none;
+
+}
+a.active{
+  color: green;
+}
